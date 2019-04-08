@@ -1,0 +1,8 @@
+[package]
+name = "sql_tryer"
+version = "0.1.0"
+authors = ["Stuv7CB <stuv@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+qmetaobject = "0.0.5"
